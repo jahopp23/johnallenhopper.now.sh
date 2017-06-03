@@ -1,0 +1,22 @@
+{
+  "name": "jah-web-now",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "JAH"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jahopp23/jahweb",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "aos": "^2.1.1"
+  },
+  "private": true
+}

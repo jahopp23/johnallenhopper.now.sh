@@ -1,0 +1,254 @@
+
+.subtext{
+text-align:center;
+
+}
+
+.table-row{
+
+  text-align:center;
+  margin-bottom: 3.00em;
+}
+
+.col-md-6{
+  display:block;
+  text-align:center;
+}
+
+ul li{
+  margin: 4.00em;
+
+  margin-top: 3.00em;
+}
+
+h5{
+  text-align: center;
+}
+
+.col-lg-12 h4{
+  font-weight: bolder;
+  padding-top: 3.00em;
+
+}
+
+
+
+
+
+
+.title-image{
+  width:100%;
+  height:800px;
+
+
+  font-family: helvetica;
+  background: url('/assets/holo-keys.jpg');
+  /*background-position: -12% 71%;*/
+  background-size:  100%;
+  background-repeat: no-repeat;
+
+  margin-top: 7.00em;
+  border-bottom-style: solid;
+border-bottom-color: blue;
+border-bottom-width: 25px;
+
+
+
+}
+
+.text2 {
+  font-size: 2.00em;
+  padding: 4.00em;
+  margin-top: -5.00em;
+  line-height: 2.00em;
+}
+
+.lead{
+  font-size: 3.00em;
+}
+
+.title-image .col-md-6{
+  padding: 1.00em;
+}
+
+.title-image p{
+  display: block;
+}
+
+.title{
+  text-align: left;
+  font-family: helvetica;
+    font-style: italic;
+    padding: 2.00em;
+    background-color: black;
+    background-position: 50% 50%;
+    background-size: 20%;
+
+
+
+}
+
+.text-box .lead{
+  padding: 3.00em;
+}
+
+
+
+h1{
+  color: black;
+  font-weight: bolder;
+}
+
+ .footer{
+   height: 300px;
+   width: 100%;
+
+   padding-bottom: 10.00em;
+ }
+
+.title-image h4{
+   color: white;
+   opacity: 10%;
+   font-size: 4.00em;
+   display: inline;
+   padding: 6,00em;
+   margin: 1.00em;
+    text-align: center;
+    text-shadow: 1px 1px grey;
+
+
+
+
+ }
+
+ .title-image h3{
+   position:relative;
+   top: -12.00em;
+ }
+
+ .title-image .frontend{
+   margin-left: 3.00em;
+   margin-top: 16.00em;
+ }
+
+ nav {
+   height: 100px;
+   border-bottom-style: solid;
+   border-bottom-width: 5px;
+   border-bottom-color: white;
+   background-color:#00FF7F;
+ }
+
+ .navbar .nav{
+   padding: 2.00em;
+ }
+
+ .title-column-1{
+   width: 50%;
+   height: 500px;
+   float: left;
+   margin-top: 36.00em;
+ }
+
+ .title-column-1 h3{
+   color: white;
+   display: flex;
+   flex-direction: column;
+   padding: 1.00em;
+   font-size: 3.00em;
+   font-weight: bolder;
+   text-shadow: 3px 3px black;
+
+ }
+
+ .title-column-1 .ui h3{
+   color: white;
+   padding: 1.00em;
+   font-size: 5.00em;
+   display: flex;
+   flex-direction: row;
+   font-weight: bolder;
+   text-shadow: 3px 3px black;
+   position:relative;
+   top: -13.00em;
+   margin-left: 1.00em;
+
+
+ }
+ .title-column-2{
+   width: 50%;
+   height: 500px;
+   float: right;
+   margin-top: 35.00em;
+ }
+
+ .title-column-2 h3{
+   color: white;
+   padding: 0.50em;
+   font-size: 3.00em;
+   display: flex;
+   flex-direction: column;
+   font-weight: bolder;
+   text-shadow: 3px 3px black;
+
+ }
+
+ .black-box{
+   width: 100%;
+   height: 650px;
+   background-color: black;
+
+ }
+
+ .black-box h3{
+   text-align: center;
+   margin-right: 3.00em;
+   position:relative;
+   top: -3.00em;
+ }
+
+
+
+
+
+ .mini{
+   font-size: 0.75em;
+   color: white;
+   text-align: center;
+}
+
+table td{
+  padding: 3.00em;
+
+}
+
+table img{
+  margin: 3.00em;
+
+}
+
+
+table{
+
+}
+
+.closer{
+  width: 100%;
+  height:50px;
+}
+   .footer-img{
+     width: 100%;
+     height: 800px;
+
+
+   }
+
+   .title-image .col-md-6{
+     display: flex;
+     flex-direction: row;
+   }
+
+   .navbar-header a .navbar-brand  {
+     font-size: 2.00em;
+   }
+ }
